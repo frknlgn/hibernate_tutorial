@@ -1,0 +1,8 @@
+- workspace'e hibernate_tutorial klasorunu olusturdum
+- githubda repository olusturdum
+- sourcetree tool'u ile olusturdugum repository'den hibernate_tutorial klasorume clone'ladim
+- pom.xml dosyasina hibernate-core dependency ekledim.
+- hibernate_tutorial klasorune eclipse kullanarak bir java projesi olusturdum
+- hibernate_tutorial klasorune pom.xml dosyasini attim
+- maven console'dan hibernate_tutorial klasorune switch ettikten sonra ("cd workspace/hibernate_tutorial") "mvn eclipse:eclipse" komutunu calistirarak,
+  projemin pom.xmldeki dependencyleri dikkate alarak librarleri indirip import etmesini sagladim.
