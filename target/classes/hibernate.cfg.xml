@@ -28,7 +28,7 @@
     <property name="show_sql">true</property>
 
     <!-- Drop and re-create the database schema on startup -->
-    <property name="hbm2ddl.auto">update</property>
-    <mapping class="javabrains.tutorial_3_2.UserDetails"/>
+    <property name="hbm2ddl.auto">create</property>
+    <mapping class="javabrains.tutorial_4.UserDetails"/>
   </session-factory>
 </hibernate-configuration>
