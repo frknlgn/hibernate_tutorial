@@ -1,10 +1,9 @@
-package javabrains.test;
+package javabrains.tutorial_3_2;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-import javabrains.tutorial_3_2.UserDetails;
 
 public class HibernateTest {
 
