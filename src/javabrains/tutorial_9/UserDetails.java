@@ -23,7 +23,6 @@ public class UserDetails {
 		@AttributeOverride (name = "state", column = @Column(name = "HOME_STATE_NAME")),
 		@AttributeOverride (name = "pincode", column = @Column(name = "HOME_PIN_CODE"))
 	})
-	
 	private Address homeAddress;
 	private Address officeAddress;
 	
