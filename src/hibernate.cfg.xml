@@ -29,9 +29,9 @@
 
     <!-- Drop and re-create the database schema on startup -->
     <property name="hbm2ddl.auto">create</property>
-    <mapping class="javabrains.tutorial_22.UserDetails"/>
-    <mapping class="javabrains.tutorial_22.Vehicle"/>
-    <mapping class="javabrains.tutorial_22.TwoWheeler"/>
-    <mapping class="javabrains.tutorial_22.FourWheeler"/>
+    <mapping class="javabrains.tutorial_24.UserDetails"/>
+    <mapping class="javabrains.tutorial_24.Vehicle"/>
+    <mapping class="javabrains.tutorial_24.TwoWheeler"/>
+    <mapping class="javabrains.tutorial_24.FourWheeler"/>
   </session-factory>
 </hibernate-configuration>
